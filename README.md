@@ -2,5 +2,5 @@
 All information about hacking gathered
 
 ## Source
-- [DragonForce Forum(https://dragonforce.io/)
+- [DragonForce Forum](https://dragonforce.io/)
 - Reddit
