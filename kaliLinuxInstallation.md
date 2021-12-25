@@ -18,15 +18,15 @@ Once downloaded, you must use 7-zip to extract the compressed files (please extr
 ## Importing Kali
 Next you have to add Kali Linux to VMware. To this open up VMware, and click 'open a VM'
 
-![VMware Workstation Pro Homepage](vmware_home.png)
+![VMware Workstation Pro Homepage](img/vmware_home.png)
 
 Now navigate to the place where you extracted the Kali and then click on the vmx file, then open. If you are asked about how you obtained the image, click on 'I copied it'.
 
-![VMware File Picker](open_vm.png)
+![VMware File Picker](img/open_vm.png)
 
 Now click on 'power on VM', and Kali Linux should begin to boot.
 
-![Power on VM option](power_on.png)
+![Power on VM option](img/power_on.png)
 
 You should finally face a login screen - the credentials will be 'kali' and the password is 'kali'.
 
@@ -35,8 +35,8 @@ By default this version of Kali uses the English US keyboard (where keys are map
 
 To do this, open the Kali main menu by clicking on the dragon in the top left corner and clicking on the settings button.
 
-![Kali Main Menu](kali_menu.png)
+![Kali Main Menu](img/kali_menu.png)
 
 Now go to Keyboard and change the layout to suit you.
 
-![Kali Keyboard Options](kali_keyboard.png)
+![Kali Keyboard Options](img/kali_keyboard.png)
