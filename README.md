@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="hacking.gif" alt="animated" />
+</p>
+
 # Hacking
 All information about hacking gathered
 
