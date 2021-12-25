@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hacking.gif" alt="animated" />
+  <img src="hacking.gif" alt="animated" width="300"/>
 </p>
 
 # Hacking
